@@ -6,7 +6,7 @@
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2312.09507-FF6B6B.svg)](https://arxiv.org/abs/2312.09507)
 </div>
 
-The implementation of ICASSP 2024 paper [WAVER: Writing-Style Agnostic Video Retrieval Via Distilling Vision-Language Models Through Open-Vocabulary Knowledge](https://arxiv.org/abs/2312.09507).
+The implementation of ICASSP 2024 paper [WAVER: Writing-Style Agnostic Video Retrieval Via Distilling Vision-Language Models Through Open-Vocabulary Knowledge](https://arxiv.org/abs/2312.09507)
 
 ## 📌 Citation
 If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
