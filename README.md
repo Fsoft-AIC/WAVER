@@ -1,6 +1,6 @@
 <div align="center">
   
-# 【ICASSP'2024 🔥】WAVER: Writing-Style Agnostic Video Retrieval Via Distilling Vision-Language Models Through Open-Vocabulary Knowledge
+# 【ICASSP'2024 🎄】WAVER: Writing-Style Agnostic Video Retrieval Via Distilling Vision-Language Models Through Open-Vocabulary Knowledge
   
 [![Conference](https://img.shields.io/badge/ICASSP-2024-FGD94D.svg)](https://2024.ieeeicassp.org/)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2312.09507-FF6B6B.svg)](https://arxiv.org/abs/2312.09507)
