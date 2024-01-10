@@ -39,9 +39,9 @@ wget https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eab
 ```
 
 ### Download Data
+Download Link [Here](https://github.com/Fsoft-AIC/WAVER/releases/tag/v0.0.1)
 ```shell
 cd data/{dataset}
-Download Link [Here]{https://github.com/Fsoft-AIC/WAVER/releases/tag/v0.0.1}
 ```
 
 ###  Train on MSR-VTT
