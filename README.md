@@ -38,6 +38,12 @@ wget https://openaipublic.azureedge.net/clip/models/40d365715913c9da98579312b702
 wget https://openaipublic.azureedge.net/clip/models/5806e77cd80f8b59890b7e101eabd078d9fb84e6937f9e85e4ecb61988df416f/ViT-B-16.pt
 ```
 
+### Download Data
+```shell
+cd data/{dataset}
+Download Link [Here]{https://github.com/Fsoft-AIC/WAVER/releases/tag/v0.0.1}
+```
+
 ###  Train on MSR-VTT
 ```shell
 python -m torch.distributed.run \
