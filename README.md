@@ -67,7 +67,7 @@ main.py \
 --video_framerate 1 \
 --base_encoder ViT-B/32
 --agg_module seqTransf \
---top_k 1 \
+--top_k 5 \
 --interaction wti \
 --wti_arch 2 \
 --drop_last \
