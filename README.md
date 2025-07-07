@@ -13,7 +13,7 @@ If you find this paper useful, please consider staring 🌟 this repo and citing
 ```
 @inproceedings{le2024waver,
   title={WAVER: Writing-style Agnostic Text-Video Retrieval via Distilling Vision-Language Models Through Open-Vocabulary Knowledge},
-  author={Le, Huy and Kieu, Tung and Le, Ngan},
+  author={Le, Huy and Kieu, Tung and Nguyen, Anh and Le, Ngan},
   booktitle={ICASSP},
   pages={1--5},
   year={2024},
